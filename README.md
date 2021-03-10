@@ -1,2 +1,2 @@
 # VirtuaaliMikseri
-Ohjeita virtuaalimikserin asentamiseen ja käyttöönottoon
+Ohjeita virtuaalimikserin asentamiseen ja käyttöönottoon. Mikserinä käytetää esimerkeissä `VoiceMeeter Banana`-sovellusta. Se on ns. Donationware-sovellus. Ohjelmaa voi käyttää ilmaiseksi henkilökohtaisiin tarkoituksiin. Kaupallisessa käytössä ja oppilaistoksessa ohjelman käyttämisestä pitää maksaa lisenssimaksu. Tarkempia tietoja saa ohjelmiston valmistajan internet-sivuilta: https://vb-audio.com/Services/licensing.htm
