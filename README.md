@@ -4,3 +4,4 @@ Ohjeita VB-audion virtuaalimikserien asentamiseen ja käyttöönottoon. Mikserin
 Sovelluksen asennnus on aina tehtävä pääkäyttäjän oikeuksin, koska se asentaa Windows-käyttöjärjestelmään laiteajureita, joita tarvitaan sekä todellisten laitteiden että virtuaalisten äänilähtöjen ja -tulojen käyttämiseksi. Lisäksi voidaan asentaa ns. virtuaalisia laitekaapeleita (Virtual cable).
 
 Jos tietokoneessa on ennestään jonkin laitteen mukana tullut virtuaalimikseri tai audiokytkin, asennusta ei kannata tehdä ennen näiden ohjelmien poistamista.
+
