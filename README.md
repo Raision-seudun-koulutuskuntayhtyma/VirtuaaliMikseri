@@ -5,3 +5,4 @@ Sovelluksen asennnus on aina tehtävä pääkäyttäjän oikeuksin, koska se ase
 
 Jos tietokoneessa on ennestään jonkin laitteen mukana tullut virtuaalimikseri tai audiokytkin, asennusta ei kannata tehdä ennen näiden ohjelmien poistamista.
 
+![Äänimikserin käyttöliittymä](https://github.com/Raision-seudun-koulutuskuntayhtyma/VirtuaaliMikseri/blob/main/Docs/Pictures/voicemeeterpro.png)
